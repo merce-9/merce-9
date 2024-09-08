@@ -11,7 +11,6 @@
 - Cuento con conocimentos y experiencia en herrmientas de Frontend como **HTML, CSS, JavaScript y Angular**
 - Actualmente me encuantro fortaleciendo mis conocimientos en Python **(Numpy, Matplotlib y Seaborn)**
 - Mi correo profesional es **imanolyd@gmail.com**
-- Mi Linkedin es [imanolyaipen](www.linkedin.com/in/imanolyaipen)
 
 <div>
   <h3>🛠️Herramientas</h3>
