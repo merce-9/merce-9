@@ -1,7 +1,7 @@
 <div>
   <h1 id="title" align = "center">Hola, soy Imanol👋🏻</h1>
   <h4 id="desc" align = "center">
-    Soy estudiante de la carrera de Ingeniería de Sistemas de la UNMSM, con un gran interés en el análisis de datos y su capacidad para transformar la información en conocimiento estratégico. Mi formación me ha permitido desarrollar habilidades técnicas en Python, SQL y visualización de datos. 
+    Soy estudiante de la carrera de Ingeniería de Sistemas de la UNMSM, con un gran interés en el análisis de datos y su capacidad para transformar la información en conocimiento estratégico. Mi formación me ha permitido desarrollar habilidades técnicas en Python, SQL y visualización de datos. Soy una persona capaz de adaptarse a otros escenarios y nuevos retos que se presenten en el área del software
   </h4>
 </div>
 
@@ -10,6 +10,7 @@
 - Conocimentos en **Excel, SQL y Python**
 - Cuento con conocimentos y experiencia en herrmientas de Frontend como **HTML, CSS, JavaScript y Angular**
 - Actualmente me encuantro fortaleciendo mis conocimientos en Python **(Numpy, Matplotlib y Seaborn)**
+- Tengo experiencia con SuiteScript de Oracle para mejora de procesos en ERP 
 - Mi correo profesional es **imanolyd@gmail.com**
 
 <div>
