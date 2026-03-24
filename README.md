@@ -17,11 +17,12 @@
 <div>
   <h3>🛠️Herramientas</h3>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="EXCEL" alt="excel" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL" alt="sql" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="hmtl" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="css" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="git" width="40" height="40"/>
   </div>
 </div>
